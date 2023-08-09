@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zeuscodes2003?tab=repositories](https://github.com/zeuscodes2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/zeuscodes2003?tab=repositories](https://github.com/Ashcodes26?tab=repositories)
 
 - 💬 Ask me about **AI AND SOLIDITY**
 
-- 📫 How to reach me **@zeuscodes**
+- 📫 How to reach me **@Ashcodes_26**
 
 - ⚡ Fun fact **have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😅**
 
